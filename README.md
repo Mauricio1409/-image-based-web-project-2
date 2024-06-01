@@ -1,1 +1,2 @@
-gh repo clone Mauricio1409/-image-based-web-project-2
+https://mauricio1409.github.io/-image-based-web-project-2/
+
